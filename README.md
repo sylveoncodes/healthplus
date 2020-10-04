@@ -1,2 +1,2 @@
-# healthplus
-mockup of a comprehensive healthcare management app
+# health+
+<i>a mockup of a comprehensive healthcare management app</i>
